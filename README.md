@@ -30,4 +30,5 @@ Technicolor provides Canon DSLR picture style named "CineStyle". But the S-curve
 
 Technicolor社が以下でキヤノン一眼レフカメラ用のピクチャースタイル「CineStyle」を提供しています。同梱のS-curve LUTをDaVinci Resolveで使えなかったため作りました。
 
-https://www.technicolor.com/cinestyle
+https://www.technicolor.com/cinestyle (not available now)
+https://web.archive.org/web/20201101115712/https://www.technicolor.com/cinestyle (archive.org)
